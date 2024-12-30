@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Royal Enfield Classic 350",
+        "type": "Bike",
+        "price": "4050",
+        "image": "https:\/\/www.bikebd.com\/den\/storage\/app\/files\/shares\/images\/productimages\/slider\/royal-enfield-classic-350-signals-desert-sand67163e941e7dd.webp"
+    },
+    {
+        "name": "New Alpine A290",
+        "type": "Car",
+        "price": "22000",
+        "image": "https:\/\/carwow-uk-wp-1.imgix.net\/New-Alpine-A290-lead-4.png?auto=format&cs=tinysrgb&fit=crop&h=&ixlib=rb-1.1.0&q=60&w=1600"
+    },
+    {
+        "name": "ZEEKR 7X",
+        "type": "Car",
+        "price": "9990.00",
+        "image": "https:\/\/s.alicdn.com\/@sc04\/kf\/H12a638a8f26445358e7b76d04295853dm.jpg_720x720q50.jpg"
+    },
+    {
+        "name": "Yamaha XSR 155",
+        "type": "Bike",
+        "price": "5450",
+        "image": "https:\/\/www.bikebd.com\/den\/storage\/app\/files\/shares\/images\/productimages\/slider\/yamaha-xsr-155-black60d702da7a32e.webp"
+    }
+]
